@@ -1,6 +1,6 @@
-import Input from "./components/Input";
-import Form, { type FormHandle } from "./components/Form";
-import Button from "./components/Button";
+import Input from "./components/UI/Input";
+import Form, { type FormHandle } from "./components/UI/Form";
+import Button from "./components/UI/Button";
 import { useRef } from "react";
 
 function App() {
